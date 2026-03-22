@@ -27,4 +27,4 @@ print(calculator.multiply(10,5))
 print(calculator.divide(10,5))
 print(calculator.square_root(25))
 
-Updated calculator with sqrt and bug fix
+
